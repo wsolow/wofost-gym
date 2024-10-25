@@ -1,4 +1,4 @@
-# Project Title
+# WOFOST-Gym
 
 This is the AgAid Crop Simulator for the joint [AgAid](https://agaid.org/) Project between Oregon State 
 University (OSU) and Washington State University (WSU).
